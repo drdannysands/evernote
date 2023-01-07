@@ -11,7 +11,7 @@ enn [optional note title]: creates a new note. If there is a parameter (or with 
 
 enp [optional note title]: creates a new note with contents being latest clipboard entry (from copy or cut action). If used as Universal Action then that text becomes note content. If there is a parameter (not available with Universal Action) sets the note title as parameter with today's date. (If Evernote is not open it is started prior to executing action.)
 
-ens [optional search term: opens Evernote search field. If there is a parameter (or from Universal Action) then that becomes search string and search is run. (If Evernote is not open it is started prior to executing action.)
+ens [optional search term]: opens Evernote search field. If there is a parameter (or from Universal Action) then that becomes search string and search is run. (If Evernote is not open it is started prior to executing action.)
 
 en: opens Evernote with no action.
 
